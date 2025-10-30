@@ -1,1 +1,0 @@
-1. Make an app that is able to find the alphabet of a sequence of text. This sequence may be an RNA or an DNA or a protein sequence.
