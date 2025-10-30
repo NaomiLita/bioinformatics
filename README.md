@@ -1,1 +1,1 @@
-# Here I upload the bioinformatics labs. #
+Here I upload the bioinformatics labs.
